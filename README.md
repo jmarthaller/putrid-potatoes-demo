@@ -111,7 +111,7 @@ A user can upload a video to be added to a particular city's list of videos. A s
 
 Users can edit their profile information.
 
-![edit-account](gifs/edit-account.gif)
+![edit-acount](gifs/edit-acount.gif)
 
 <br/><br/>
 <br/><br/>
