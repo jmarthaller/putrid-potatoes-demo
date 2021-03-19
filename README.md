@@ -120,6 +120,3 @@ Users can delete their profile from the platform.
 
 ![delete-account](gifs/delete-account.gif)
 
-<br/><br/>
-<br/><br/>
-
