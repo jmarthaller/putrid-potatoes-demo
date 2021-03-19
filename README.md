@@ -56,7 +56,7 @@ Users can write a review for a movie. Once a review is submitted that user is di
 
 A user's personal profile page contains every review they have written, as well as the users they follow.
 
-![potato-movie-1](gifs/potato-movie-1.gif)
+![user-profile](gifs/user-profile.gif)
 
 <br/><br/>
 <br/><br/>
