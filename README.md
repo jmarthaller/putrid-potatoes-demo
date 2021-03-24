@@ -12,6 +12,10 @@ Putrid Potatoes is a platform for users to log the movies they have watched, wri
 
 Users can login to access their Putrid Potatoes account. A user's login has validations. Upon a successful login attempt a user will be taken to the main landing page for the site, which shows the movies on the platform.
 
+#### Demo Login Credentials: 
+Username: markansas
+Password: 123
+
 ![login-potato](gifs/login-potato.gif)
 
 <br/><br/>
