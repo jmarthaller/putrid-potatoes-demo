@@ -23,17 +23,21 @@ Password: 123
 
 ### Filter
 
-Users can search for a movie, as well as filter movies to review by genre or runtime.
+Users can search for a movie by title
 
 ![potato-search](gifs/potato-search.gif)
 
 <br/><br/>
 <br/><br/>
 
+Users can filter movies to review by genre
+
 ![potato-search](gifs/potato-genre.gif)
 
 <br/><br/>
 <br/><br/>
+
+Alternatively, users can filter movies by runtime
 
 ![potato-search](gifs/potato-runtime.gif)
 
